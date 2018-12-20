@@ -1,0 +1,1 @@
+"c:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\SqlPackage.exe" /Action:Publish /SourceFile:"d:\SSDTProject\AdventureWorksAzureFromLocalDevServer\ADW_initial\ADW_initial\bin\Debug\ADW_initial.dacpac" /Profile:"d:\SSDTProject\AdventureWorksAzureFromLocalDevServer\ADW_initial\ADW_initial\ADW_TEST.publish.xml"
