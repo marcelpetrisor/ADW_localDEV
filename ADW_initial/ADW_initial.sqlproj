@@ -103,4 +103,7 @@
   <ItemGroup>
     <RefactorLog Include="ADW_initial.refactorlog" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ADW_TEST.publish.xml" />
+  </ItemGroup>
 </Project>
