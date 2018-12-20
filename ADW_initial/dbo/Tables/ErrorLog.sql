@@ -10,6 +10,7 @@
     [ErrorMessage]   NVARCHAR (4000) NOT NULL,
     [UserId] NCHAR(10) NULL, 
     [LastUpdate] DATETIME2 NULL DEFAULT GetDate(), 
+    [ForcedErrors] INT NULL, 
     CONSTRAINT [PK_ErrorLog_ErrorLogID] PRIMARY KEY CLUSTERED ([ErrorLogID] ASC)
 );
 

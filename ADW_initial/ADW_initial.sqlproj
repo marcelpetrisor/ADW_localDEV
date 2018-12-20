@@ -100,4 +100,7 @@
     <Build Include="Security\SalesLT.sql" />
     <Build Include="SalesLT\Sequences\SalesOrderNumber.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="ADW_initial.refactorlog" />
+  </ItemGroup>
 </Project>
